@@ -1,0 +1,42 @@
+.Login-container{
+   
+}
+
+.Login-title{
+    color: orange;
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+.Login-outbox{
+    width: 400px;
+    height: 500px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: orange;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.Login-inbox{
+    width: 100px;
+    height: 100px;
+
+    margin: auto;
+    display: flex;
+   
+    align-items: center;
+    justify-content: center;
+
+    color: green;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.Login-input{
+    width: 60px;
+    border: 0;
+    outline: none;
+}
