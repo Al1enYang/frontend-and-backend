@@ -1,0 +1,36 @@
+.Bottom-container{
+    
+}
+
+.Bottom-title{
+    width: 1340px;
+    height: 35px;
+    background-color: rgb(223, 220, 220);
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 119px;
+    display: flex;
+    flex-direction: row;
+}
+
+.Bottom-title-text{
+    margin: auto;
+    color: tomato;
+    font-size: 12pt;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.Bottom-title-text2{
+    margin: auto;
+    color: black;
+    font-size: 12pt;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.Bottom-list{
+    display: flex;
+    margin-left: 99px;
+    cursor: pointer;
+}

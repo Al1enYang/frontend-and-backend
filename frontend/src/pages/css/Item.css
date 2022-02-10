@@ -1,0 +1,44 @@
+.Item-container{
+    display: flex;
+    width: 100%;
+    height: 80px;
+}
+.Item-content{
+    width: 80%;
+    height: 80%;
+    margin:auto;
+    border: green 1px solid;
+
+    display: flex;
+}
+
+.Item-image{
+    height: 100%;
+    width: 65px;
+    background-color: grey;
+    margin-left: 0px;
+}
+.Item-name{
+    font-size: 20px;
+    margin: auto 0 ;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+.Item-price{
+    font-size: 20px;
+    margin-left: 50px;
+
+}
+.Item-buyer-unselected{
+    font-size: 20px;
+    margin-left: 50px;
+    background-color: #fff;
+    color: black;
+}
+.Item-buyer-selected{
+    font-size: 20px;
+    margin-left: 50px;
+    background-color: #A00;
+    color: white;
+    cursor: pointer;
+}

@@ -1,0 +1,77 @@
+.Login-container{
+   
+}
+
+.Login-title{
+    color: red;
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+.Login-text{
+    width: 350px;
+    height: 50px;
+    color: black;
+}
+
+.Login-gap1{
+    margin:20px;
+}
+
+.Login-gap2{
+    margin:10px;
+}
+
+.Login-gap3{
+    margin:5px;
+}
+
+.Login-outbox{
+    width: 350px;
+    height: 350px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: red;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.Login-row{
+    display:flex;
+}
+
+.Login-button{
+    width: 300px;
+    height: 42px;
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.Login-inbox{
+    width: 100px;
+    height: 100px;
+
+    margin: auto;
+    /* display: flex; */
+   
+    align-items: center;
+    justify-content: center;
+
+    color: green;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.Login-input{
+    width: 300px;
+    height: 36px;
+    /* border: 0; */
+    /* outline: none; */
+}
+
+.Login-image{
+    height: 42px;
+}

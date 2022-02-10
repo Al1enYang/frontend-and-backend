@@ -1,0 +1,53 @@
+.Main-container{
+    width: 100%;
+    overflow-y:auto;
+}
+
+.Main-header{
+    width: 100%;
+    height: 100px;
+    /* background-color: #000; */
+
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.Main-body{
+    margin-top: 100px;
+    width: 100%;
+    height: 1000px;
+    display: flex;
+}
+.Main-body-left{
+    width: 80%;
+    /* border: black 1px solid; */
+
+}
+.Main-shopSelect{
+    width: 100%;
+    /* border: black 1px solid; */
+}
+.Main-body-right{
+    width: 20%;
+    /* border: black 1px solid; */
+}
+.Main-menu{
+    width: 30px;
+    height: 150px;
+    /* background-color: #A00; */
+
+    position: absolute;
+    /* left: 800px;
+    top: 600px; */
+    right: 15px;
+    bottom: 100px;
+}
+
+.Main-footer{
+    width: 100%;
+    height: 200px;
+    /* border: black 1px solid; */
+}

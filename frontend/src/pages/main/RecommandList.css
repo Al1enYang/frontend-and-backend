@@ -1,0 +1,29 @@
+.RecommandList-container{
+    width: 270px;
+    border: gray 1px solid;
+    margin-top: 10px;
+}
+
+.RecommandList-image{
+    width: 270px;
+    height: 280px;
+
+}
+
+.RecommandList-info{
+    display: flex;
+}
+
+.RecommandList-price{  
+    color: tomato;
+        font-size: 16pt;
+        font-family:sans-serif;
+        font-weight:900;
+        margin-left: 5px;
+}
+
+.RecommandList-buyer{
+    color: grey;
+    margin-left: 120px;
+    margin-top: 5px;
+}

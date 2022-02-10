@@ -1,0 +1,33 @@
+.ItemList-container{
+
+}
+
+.button-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.ItemList-button{
+    margin: auto;
+    width: 72px;
+    height: 37px;
+    color: grey;
+    border: grey 1px solid;
+    cursor: pointer;
+}
+
+.ItemList-switch{
+    width: 37px;
+    height: 37px;
+    background-color: tomato;
+    color: white;
+    cursor: pointer;
+}
+
+.ItemList-unswitch{
+    width: 37px;
+    height: 37px;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}

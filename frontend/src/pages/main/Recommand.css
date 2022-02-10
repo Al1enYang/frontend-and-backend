@@ -1,0 +1,25 @@
+.Recommand-container{
+    margin: auto;
+    margin-left: -20%;
+    margin-top: 10px;
+}
+
+.Recommand-text{
+    color: black;
+    font-size: 14pt;
+    cursor: pointer;
+    margin-left: 8px;
+}
+
+.Recommand-line{
+    margin: auto;
+    margin-left: 8px;
+    width: 75%;
+    background-color: grey;
+    border: grey 1px solid;
+}
+
+.Recommand-list{
+    cursor: pointer;
+    margin-left: 9px;
+}

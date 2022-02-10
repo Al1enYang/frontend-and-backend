@@ -1,0 +1,11 @@
+.Menu-container{
+
+}
+
+.Menu-icon{
+    width: 40px;
+    height: 40px;
+    font-size: 18pt;
+    margin-top: 8px;
+    cursor: pointer;
+}

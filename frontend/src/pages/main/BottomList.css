@@ -1,0 +1,38 @@
+.BottomList-container{
+}
+
+.BottomList-content1{
+    width: 252px;
+    height: 379px;
+    border: gray 2px solid;
+    margin-left: 20px;
+}
+
+.BottomList-content2{
+    width: 252px;
+    height: 379px;
+    border: tomato 2px solid;
+    margin-left: 20px;
+}
+
+.BottomList-image{
+    width: 250px;
+    height: 250px;
+}
+
+.BottomList-price{
+    color: tomato;
+    font-size: 16pt;
+    font-family:sans-serif;
+    font-weight:900;
+}
+
+.BottomList-name{
+
+}
+
+.BottomList-buyer{
+    color: gray;
+    margin-left: 190px;
+    margin-top: 30px;
+}
